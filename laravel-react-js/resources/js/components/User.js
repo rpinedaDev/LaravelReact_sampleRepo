@@ -15,6 +15,8 @@ function User() {
 
                         <button type="button" class="btn btn-primary" style={{ backgroundColor: "yellow" }}>anak mo Primary</button>
 
+                        <button type="button" class="btn btn-primary" style={{ backgroundColor: "green" }}>tatay mo Primary</button>
+
 
                     </div>
                 </div>
