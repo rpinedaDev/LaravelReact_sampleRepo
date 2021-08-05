@@ -10,7 +10,9 @@ function User() {
                         <div className="card-header"><h2>React Component in Laravel</h2></div>
 
                         <div className="card-body">I'm tiny React component in Laravel app!</div>
+
                         <button type="button" class="btn btn-primary" style={{ backgroundColor: "red" }}>nanay mo Primary</button>
+
                     </div>
                 </div>
             </div>

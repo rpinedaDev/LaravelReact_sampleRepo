@@ -1992,7 +1992,7 @@ function User() {
             type: "button",
             "class": "btn btn-primary",
             style: {
-              backgroundColor: "red"
+              backgroundColor: "green"
             },
             children: "Primary"
           })]
