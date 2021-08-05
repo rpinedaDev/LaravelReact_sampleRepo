@@ -1992,9 +1992,16 @@ function User() {
             type: "button",
             "class": "btn btn-primary",
             style: {
+              backgroundColor: "red"
+            },
+            children: "nanay mo Primary"
+          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("button", {
+            type: "button",
+            "class": "btn btn-primary",
+            style: {
               backgroundColor: "green"
             },
-            children: "Primary"
+            children: "anak mo Primary"
           })]
         })
       })
