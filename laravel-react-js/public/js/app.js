@@ -1999,7 +1999,7 @@ function User() {
             type: "button",
             "class": "btn btn-primary",
             style: {
-              backgroundColor: "green"
+              backgroundColor: "blue"
             },
             children: "anak mo Primary"
           })]

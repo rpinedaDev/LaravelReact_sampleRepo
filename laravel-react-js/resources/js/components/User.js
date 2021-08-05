@@ -12,7 +12,7 @@ function User() {
                         <div className="card-body">I'm tiny React component in Laravel app!</div>
 
                         <button type="button" class="btn btn-primary" style={{ backgroundColor: "red" }}>nanay mo Primary</button>
-                        <button type="button" class="btn btn-primary" style={{ backgroundColor: "green" }}>anak mo Primary</button>
+                        <button type="button" class="btn btn-primary" style={{ backgroundColor: "blue" }}>anak mo Primary</button>
 
                     </div>
                 </div>
